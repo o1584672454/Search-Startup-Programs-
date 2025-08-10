@@ -28,9 +28,6 @@ A GUI tool to view and analyze Windows startup programs with icon extraction cap
 - Python 3.7+
 - Dependencies listed in `requirements.txt`
 
-## Installation / 安裝
-
-1. Clone the repository:
-2. `
-   pip show Pillow
-   pip show pywin32`
+## Pthon pip Installation / 安裝
+   `pip install Pillow`
+   `pip install pywin32`
