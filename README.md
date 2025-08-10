@@ -37,4 +37,4 @@ A GUI tool to view and analyze Windows startup programs with icon extraction cap
 
 ## Author / 作者
 # Koala
-# Discord:.koalaw1001
+# Discord: .koalaw1001
