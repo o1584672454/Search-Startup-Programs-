@@ -23,6 +23,7 @@ A GUI tool to view and analyze Windows startup programs with icon extraction cap
 - 可捲動程序清單
 ## Python pip Installation / 安裝
    - `pip install Pillow`
+   - 
    - `pip install pywin32`
 ## Requirements / 系統需求
 
