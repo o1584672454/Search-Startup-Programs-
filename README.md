@@ -29,6 +29,6 @@ A GUI tool to view and analyze Windows startup programs with icon extraction cap
 - Windows 10/11
 - Python 3.7+
 ## How to use?/如何使用?
-1.install Pillow and pywin32 / 安裝Pillow 和 pywin32
-2.open ## main.py / 打開 main.py
-3.enjoy! / 享受吧!
+- 1.install Pillow and pywin32 / 安裝Pillow 和 pywin32
+- 2.open ## main.py / 打開 main.py
+- 3.enjoy! / 享受吧!
