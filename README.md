@@ -21,13 +21,11 @@ A GUI tool to view and analyze Windows startup programs with icon extraction cap
 - 僅提供檔名時自動搜尋系統目錄
 - 多語言介面（中英文）
 - 可捲動程序清單
-
+## Python pip Installation / 安裝
+   -`pip install Pillow`
+   -`pip install pywin32`
 ## Requirements / 系統需求
 
 - Windows 10/11
 - Python 3.7+
 - Dependencies listed in `requirements.txt`
-
-## Pthon pip Installation / 安裝
-   `pip install Pillow`
-   `pip install pywin32`
