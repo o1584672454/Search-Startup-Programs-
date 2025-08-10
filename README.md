@@ -31,3 +31,6 @@ A GUI tool to view and analyze Windows startup programs with icon extraction cap
 ## Installation / 安裝
 
 1. Clone the repository:
+2. `
+   pip show Pillow
+   pip show pywin32`
